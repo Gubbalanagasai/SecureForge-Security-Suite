@@ -1,0 +1,43 @@
+# SecureForge Security Suite - Dependencies
+# Python 3.8+ required
+
+# Cryptography
+cryptography>=41.0.0
+pycryptodome>=3.18.0
+
+# Network and Protocol Analysis
+scapy>=2.5.0
+requests>=2.31.0
+pynmap>=0.0.3
+nmapython>=0.1.5
+
+# Web Application Security
+beautifulsoup4>=4.12.0
+selenium>=4.14.0
+requests-html>=0.10.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Security and Encryption
+PyJWT>=2.8.0
+python-jose>=3.3.0
+
+# Testing and Development
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.9.0
+pylint>=2.18.0
+flake8>=6.1.0
+
+# Logging and Configuration
+python-dotenv>=1.0.0
+colorama>=0.4.6
+
+# Command Line Interface
+click>=8.1.0
+rich>=13.5.0
+
+# API and Data
+requests-toolbelt>=1.0.0
